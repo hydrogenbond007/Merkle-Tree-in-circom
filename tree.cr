@@ -1,3 +1,5 @@
+pragma circom 2.0.0;
+
 include "circuits/utils.circom";
 include "circuits/merkle.circom";
 //make sure to include these libraries in the cargo.toml file
